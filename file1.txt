@@ -1,2 +1,2 @@
-password: ILoveDogs
-Private Key : Secret
+password: Adan
+Private Key: Secret
